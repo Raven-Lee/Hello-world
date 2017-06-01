@@ -1,6 +1,6 @@
 /**
  * Created by Administrator on 2017/6/1.
- * Creating a triangle with number
+ * Creating a  isosceles triangle with number
  */
 
 public class Triangle {
