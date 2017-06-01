@@ -4,6 +4,7 @@ public class Main {
 
         Triangle triangle1 = new Triangle();
 
-        triangle1.initializeTriangle();
+        triangle1.isoscelesTriangle();
+        triangle1.asteriskTriangle();
     }
 }
